@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on A Hugo website</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bio</title>
+      <link>/2020/12/01/bio/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/12/01/bio/</guid>
+      <description>Welcome!Hi and welcome to my personal website. My name is Dr. Samuel Montalvo, a research scientist, exercise and health advocate, and an athlete. As a research scientist, I am interested in understanding the mechanical, molecular, and physiological mechanisms to human performance. In addition, I am interesting in creating new and practical training methods to improve human exercise performance.
+Hola y bienvenido a mi sitio personal web. Mi nombre es Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
